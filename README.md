@@ -1,4 +1,5 @@
-How to share data with a statistician
+https://github.com/jtleek/datasharing
+Copy and paste the link to the forked repository on your GHow to share data with a statistician
 ===========
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
